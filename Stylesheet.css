@@ -1,0 +1,17 @@
+body
+{
+    background-image: url('API BG.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.info
+{
+    background-color: transparent;
+    color: white;
+    font-size: large;
+}
+.search
+{
+    background-color:transparent;
+}
